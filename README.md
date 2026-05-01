@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YvanStrong
-- 👀 I’m interested in JAVA programming language,C,C++,PHP,CSS & HTML,JS,SPRING BOOT and Network security
+- 👀 I’m interested in JAVA programming language,Python,C,C++,PHP,CSS & HTML,JS,Typescript,SPRING BOOT and Network security
 - 🌱 I’m Fresh Graduate IT majored in Networking and communication system
 - 💞️ I’m looking to collaborate on making app and doing cyber security
 - 📫 How to reach me +250780532022 and my Email is yvannystrong@gmail.com
